@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-doc",
+  "repo": "sphinxcontrib-django",
+  "versions": [
+    {
+      "commit": "0c06ad2379d1056148699095943c8a463e81bf79",
+      "tag": "",
+      "parsed_at": "2026-10-11T23:25:22.992058+00:00"
+    }
+  ]
+}
