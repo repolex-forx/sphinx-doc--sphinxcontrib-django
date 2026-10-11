@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/sphinx-doc/sphinxcontrib-django/commit/0c06ad2379d1056148699095943c8a463e81bf79",
       "git:hexsha": "0c06ad2379d1056148699095943c8a463e81bf79",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T23:25:22.991482+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sphinx-doc/sphinxcontrib-django/commit/2775b299df4d8ea2e18c0c593b25b18d251accd2",
